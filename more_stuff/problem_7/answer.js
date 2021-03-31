@@ -1,0 +1,7 @@
+/* 
+Exception handling describes the way we can plan for possible errors
+that might occur in our code and plan for the eventuality of an exception
+being thrown. It should be used in extraordinary cases where actions that
+are out of our hands may cause the program to crash or return incorrect
+information.
+*/
